@@ -20,7 +20,7 @@ table.center {
 
 @media (max-width: 1000px) {
     #wrapper {
-        width: 100%;     /* specify a width! */
+        width: 90%;     /* specify a width! */
         margin: 0 auto; /* center */
       }
     
