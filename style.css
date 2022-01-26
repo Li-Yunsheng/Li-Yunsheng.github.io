@@ -8,8 +8,20 @@ td {
     font-size: 12pt;
 }
 
+.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
 
 #wrapper {
     width: 60%;     /* specify a width! */
     margin: 0 auto; /* center */
   }
+
+@media (max-width: 1000px) {
+    #wrapper {
+        width: 100%;     /* specify a width! */
+        margin: 0 auto; /* center */
+      }
+    
+}
