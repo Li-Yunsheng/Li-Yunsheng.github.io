@@ -18,7 +18,7 @@ table.center {
     margin: 0 auto; /* center */
   }
 
-@media (max-width: 1000px) {
+@media (max-width: 1200px) {
     #wrapper {
         width: 90%;     /* specify a width! */
         margin: 0 auto; /* center */
