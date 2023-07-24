@@ -25,12 +25,12 @@ table.center {
       }
     
     body{
-        font-size: 16pt;
+        font-size: 18pt;
         color: #000000;
     }
 
     td {
         vertical-align: top;
-        font-size: 16pt;
+        font-size: 18pt;
     }
 }
