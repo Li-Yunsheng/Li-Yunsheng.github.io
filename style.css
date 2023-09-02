@@ -21,6 +21,7 @@ table.center {
 
 @media (max-width: 1000px) {
     #wrapper {
+        background-color: rgb(245,169,184)
         width: 90%;     /* specify a width! */
         margin: 0 auto; /* center */
       }
