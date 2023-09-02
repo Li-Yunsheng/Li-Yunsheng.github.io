@@ -14,6 +14,7 @@ table.center {
   }
 
 #wrapper {
+    background-color: rgb(245,169,184)
     width: 40%;     /* specify a width! */
     margin: 0 auto; /* center */
   }
