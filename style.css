@@ -15,7 +15,7 @@ table.center {
 
 #wrapper {
     background-color: rgb(255, 250, 250);
-    border: 2px double;
+    border: 2px double rgb(255, 201, 212);
     overflow:   hidden;
     width: 40%;     /* specify a width! */
     margin: 0 auto; /* center */
@@ -24,7 +24,7 @@ table.center {
 @media (max-width: 1000px) {
     #wrapper {
         background-color: rgb(255, 250, 250);
-        border: 2px double;
+        border: 2px double rgb(255, 201, 212);
         overflow:   hidden;
         width: 90%;     /* specify a width! */
         margin: 0 auto; /* center */
