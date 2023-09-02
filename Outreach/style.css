@@ -1,0 +1,36 @@
+body{
+    font-size: 12pt;
+    color: #000000;
+}
+
+td {
+    vertical-align: top;
+    font-size: 12pt;
+}
+
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+#wrapper {
+    width: 40%;     /* specify a width! */
+    margin: 0 auto; /* center */
+  }
+
+@media (max-width: 1000px) {
+    #wrapper {
+        width: 90%;     /* specify a width! */
+        margin: 0 auto; /* center */
+      }
+    
+    body{
+        font-size: 18pt;
+        color: #000000;
+    }
+
+    td {
+        vertical-align: top;
+        font-size: 18pt;
+    }
+}
