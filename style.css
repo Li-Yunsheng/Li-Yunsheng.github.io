@@ -19,7 +19,7 @@ table.center {
     border-style: solid;
     border-width: medium;
     border-color: rgb(245, 169, 184);
-    width: 40%;     /* specify a width! */
+    width: 60%;     /* specify a width! */
     margin: 0 auto; /* center */
   }
 
